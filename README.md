@@ -29,30 +29,30 @@ Goal: Investigate and demonstrate privacy-utility trade-off.
 │ └── model_dp.pt<br/>
 ├── data/<br/>
 │ ├── Dataset/<br/>
-│ │ ├── train.csv
-│ │ ├── test.csv
-│ ├── ml-100k/
-│ │ ├── u.data
-│ │ ├── u.genre
-│ │ └── u.item
-│ ├── full_dataset.csv
-│ ├── preprocessing.py
-│ ├── test.csv
-│ └── train.csv
-├── notebooks/
-├── report/
-├── results/
-├── src/
-│ ├── pycache/
-│ ├── compute_dp_median.py
-│ ├── data_loader.py
-│ ├── evaluate.py
-│ ├── model.py
-│ ├── train_baseline.py
-│ ├── train_dp.py
-│ └── train_ibm_diffpriv.py
-├── requirements.txt
-└── README.md
+│ │ ├── train.csv<br/>
+│ │ ├── test.csv<br/>
+│ ├── ml-100k/<br/>
+│ │ ├── u.data<br/>
+│ │ ├── u.genre<br/>
+│ │ └── u.item<br/>
+│ ├── full_dataset.csv<br/>
+│ ├── preprocessing.py<br/>
+│ ├── test.csv<br/>
+│ └── train.csv<br/>
+├── notebooks/<br/>
+├── report/<br/>
+├── results/<br/>
+├── src/<br/>
+│ ├── pycache/<br/>
+│ ├── compute_dp_median.py<br/>
+│ ├── data_loader.py<br/>
+│ ├── evaluate.py<br/>
+│ ├── model.py<br/>
+│ ├── train_baseline.py<br/>
+│ ├── train_dp.py<br/>
+│ └── train_ibm_diffpriv.py<br/>
+├── requirements.txt<br/>
+└── README.md<br/>
 
 ## Example calls
 
