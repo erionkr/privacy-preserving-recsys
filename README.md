@@ -24,11 +24,11 @@ Goal: Investigate and demonstrate privacy-utility trade-off.
 
  ## projectstructure
 
-├── checkpoints/
-│ ├── model_baseline.pt
-│ └── model_dp.pt
-├── data/
-│ ├── Dataset/
+├── checkpoints/<br/>
+│ ├── model_baseline.pt<br/>
+│ └── model_dp.pt<br/>
+├── data/<br/>
+│ ├── Dataset/<br/>
 │ │ ├── train.csv
 │ │ ├── test.csv
 │ ├── ml-100k/
